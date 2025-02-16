@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm mbltassamantha40574
 
-<!--
-**mbltassamantha40574/mbltassamantha40574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚵 🎾 A hacker in devops 🚵 🎾
 
-Here are some ideas to get you started:
+## About Me
+🛼 💻 🎮 🎽 Addicted to developer advocacy 🛼 💻 🎮 🎽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛶 🎱 🏑 Building the future with tech gadgets 🛶 🎱 🏑
+
+### Fun Facts
+🎾 🎷 A lover of blockchain 🎾 🎷
+
+---
+🏸 🚴 🎱 🏸 🚵 Thanks for visiting my profile! 🎮 🏄 🎱 🏑 🎾
